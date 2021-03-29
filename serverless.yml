@@ -11,10 +11,10 @@
 #
 # Happy Coding!
 
-service: numberheng
+service: operation
 # app and org for use with dashboard.serverless.com
-#app: your-app-name
-#org: your-org-name
+app: numberheng
+org: numberheng
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
